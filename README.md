@@ -1,4 +1,4 @@
-# productinfo-webapp-azure
+# Azure Webapp for displaying product information
 Webapp using Azure SQL that displays product information. Help you add, update and delete products\
 
 Webpage(hosted on Azure)\
